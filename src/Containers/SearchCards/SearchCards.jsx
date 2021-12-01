@@ -32,7 +32,6 @@ const Cards = () => {
         setLoading(false);
       })
       .catch(() => {
-        console.error('Plz fix your call, or set up your internet');
         setLoading(false);
       });
   }, []);
