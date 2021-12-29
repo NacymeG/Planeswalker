@@ -1,21 +1,13 @@
-# Template for Frontend project
+# 🎴 Planeswalker, a Magic the Gathering Database.
 
-## Why this project
-This repo aims to provide a comfortable Developer Experience (DX) to newbie React developpers.
-It comes with a lo of tools with a asic config:
-- Create React App (CRA)
-- ESLint
-- Prettier
-- StyleLint
+#### A frontend project fully made with React.
 
-## First steps
+## How to run
 
-### Install these extensions for VSCode
+### Install all needed dependency
 
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [StyleLint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- `npm install`
 
-### Install `husky`, which will check your code everytime you commit files
+### Run the project
 
-- `npm run prepare`
+- `npm start`
